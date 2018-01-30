@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed Jan 17 12:48:20 CST 2018
+1.base=E\:\\mywork\\XPrivacy\\xPrivacy\\build\\intermediates\\assets\\release
+2.path=xposed_init
+0.baseType=DIRECTORY
+2.base=E\:\\mywork\\XPrivacy\\xPrivacy\\build\\intermediates\\assets\\release
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=E\:\\mywork\\XPrivacy\\xPrivacy\\build\\intermediates\\transforms\\dex\\release\\0
+2.baseType=DIRECTORY
+1.path=XPrivacy_public_key.txt

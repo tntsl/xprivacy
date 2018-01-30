@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\mywork\XPrivacy\xPrivacy\src\main\assets"><file name="xposed_init" path="E:\mywork\XPrivacy\xPrivacy\src\main\assets\xposed_init"/><file name="XPrivacy_public_key.txt" path="E:\mywork\XPrivacy\xPrivacy\src\main\assets\XPrivacy_public_key.txt"/></source><source path="E:\mywork\XPrivacy\xPrivacy\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="E:\mywork\XPrivacy\xPrivacy\src\release\assets"/></dataSet></merger>

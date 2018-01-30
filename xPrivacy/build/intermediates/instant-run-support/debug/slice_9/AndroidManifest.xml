@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="biz.bokhorst.xprivacy"
+      android:versionCode="481"
+      android:versionName="3.6.19"
+      split="lib_slice_9_apk">
+</manifest>

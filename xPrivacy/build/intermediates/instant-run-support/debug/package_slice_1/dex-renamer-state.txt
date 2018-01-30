@@ -1,0 +1,4 @@
+#Wed Jan 17 12:52:07 CST 2018
+base.0=E\:\\mywork\\XPrivacy\\xPrivacy\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
