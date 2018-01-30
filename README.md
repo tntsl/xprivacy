@@ -1,2 +1,2 @@
 # xprivacy
-copy of xprivacy,moved develope tool from eclipse to android studio
+copy of xprivacy,moved develop tool from eclipse to android studio
